@@ -1,0 +1,29 @@
+* {
+    background-color: #FFEFD6;
+    font-family: 'Courier New', Courier, monospace;
+    /* text-align: center;     */
+}
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+}
+#value {
+    font-size: 100px;
+    margin-bottom: 500px;
+    font-weight:bold;
+}
+
+button {
+    font-weight:600;
+    color: black;
+    cursor: pointer;
+    margin: 50px 5px;
+    padding: 20px;
+    font-size:large;
+    border-radius: 30px;
+    box-shadow: #FFEFD6;
+}
+
+
